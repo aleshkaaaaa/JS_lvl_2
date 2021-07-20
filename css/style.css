@@ -1,0 +1,21 @@
+* {
+    height: 1500px;
+    width: 100%;
+}
+
+.header {
+  height: 40px;
+  max-width: 100%;  
+  background-color: grey;
+}
+
+.main{
+    height: 40px;
+    max-width: 100%;  
+}
+
+.footer {
+    height: 70px;
+    max-width: 100%;  
+    background-color: lightblue;
+}
